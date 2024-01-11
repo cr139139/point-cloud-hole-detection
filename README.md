@@ -1,8 +1,8 @@
 # point-cloud-hole-detection
 
-![alt text](https://github.com/cr139139/point-cloud-hole-detection/blob/main/example.png)
+<p align="center"><img src='https://github.com/cr139139/point-cloud-hole-detection/blob/main/example.png' width='250'></p>
 
-Implementation of hole detection algorithms introduced by Cui et al. If you use the code, please cite the repo and the original author's bibcode as below.
+Implementation of hole detection algorithms introduced by Cui et al. If you use the code, please cite this repo and the original author's bibtex as below.
 
 ```
 @article{Cui2021HoleRA,
